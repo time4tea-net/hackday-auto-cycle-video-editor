@@ -10,7 +10,6 @@ This uses
 - sox
 - ffmpeg
 - aubio
-- 
 
 To create a hilights video from a long VIRB mp4 recording.
 
