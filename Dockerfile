@@ -15,3 +15,6 @@ RUN sudo apt-get update
 RUN apt-get -y install ffmpeg
 RUN apt-get -y install openjdk-8-jdk
 RUN apt-get -y install libtext-csv-perl liblist-moreutils-perl
+RUN apt-get -y install jq
+RUN apt-get -y install exiftool
+RUN apt-get -y install aubio-tools
